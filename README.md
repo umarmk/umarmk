@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Umar Mohasin
 
-<!--
-**umarmk/umarmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Software Engineer based in Dubai, focused on building practical AI/ML and full-stack software solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BSc Computer Science graduate, 2025
+- Microsoft and NVIDIA certified in AI and cloud technologies
+- Interested in AI Engineering, Machine Learning, LLMs, RAG systems, and software architecture
+- Building projects with Python, FastAPI, React, PostgreSQL, Docker, Azure, and OpenAI APIs
+- Goal: become a strong AI Engineer and build valuable technology products
+
+## Tech Stack
+
+**Languages:** Python, JavaScript, SQL  
+**AI/ML:** Scikit-learn, Pandas, NumPy, PyTorch, LangChain, CrewAI, RAG, NLP  
+**Backend:** FastAPI, Flask, REST APIs  
+**Frontend:** React, Next.js  
+**Databases:** PostgreSQL, Redis, ChromaDB  
+**Cloud & DevOps:** Azure, Docker, GitHub Actions, MLflow, Kubernetes  
+
+## Currently Learning
+
+- Advanced AI Engineering
+- Software architecture
+- Production-grade LLM applications
+- MLOps and deployment
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/umar-mohasin/
+- Portfolio: https://umarmk.com/
