@@ -1,4 +1,4 @@
-# Hi, I'm Umar Mohasin
+## Hi, I'm Umar Mohasin
 
 AI Software Engineer based in Dubai, focused on building practical AI/ML and full-stack software solutions.
 
@@ -18,13 +18,6 @@ AI Software Engineer based in Dubai, focused on building practical AI/ML and ful
 **Frontend:** React, Next.js  
 **Databases:** PostgreSQL, Redis, ChromaDB  
 **Cloud & DevOps:** Azure, Docker, GitHub Actions, MLflow, Kubernetes  
-
-## Currently Learning
-
-- Advanced AI Engineering
-- Software architecture
-- Production-grade LLM applications
-- MLOps and deployment
 
 ## Connect With Me
 
