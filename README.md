@@ -1,6 +1,6 @@
 ## Hi, I'm Umar Mohasin
 
-I like all numbers, especially 0s and 1s.    
+I like numbers, especially 0s and 1s.    
 Building AI/ML software in Python and tinkering with LLMs and AI agents.
 
 ## Connect With Me
