@@ -1,6 +1,6 @@
 ## Hi, I'm Umar Mohasin
 
-Building AI/ML software in Python and tinkering with LLMs and AI agents.    
+Building AI/ML software and tinkering with LLMs and AI agents.    
 I like numbers, especially 0s and 1s.    
 
 ## Connect With Me
